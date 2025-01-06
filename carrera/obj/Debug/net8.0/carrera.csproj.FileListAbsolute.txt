@@ -1,0 +1,14 @@
+C:\DAW\Entorns\Programes\carrera\carrera\bin\Debug\net8.0\carrera.exe
+C:\DAW\Entorns\Programes\carrera\carrera\bin\Debug\net8.0\carrera.deps.json
+C:\DAW\Entorns\Programes\carrera\carrera\bin\Debug\net8.0\carrera.runtimeconfig.json
+C:\DAW\Entorns\Programes\carrera\carrera\bin\Debug\net8.0\carrera.dll
+C:\DAW\Entorns\Programes\carrera\carrera\bin\Debug\net8.0\carrera.pdb
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.AssemblyInfoInputs.cache
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.AssemblyInfo.cs
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.csproj.CoreCompileInputs.cache
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.dll
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\refint\carrera.dll
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.pdb
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\carrera.genruntimeconfig.cache
+C:\DAW\Entorns\Programes\carrera\carrera\obj\Debug\net8.0\ref\carrera.dll
